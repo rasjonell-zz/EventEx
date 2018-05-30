@@ -1,4 +1,4 @@
-# EventEx - 
+# EventEx
 
 To start your Phoenix server:
 
