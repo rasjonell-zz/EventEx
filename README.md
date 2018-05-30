@@ -9,6 +9,18 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
+## Screenshots
+
+![Month View](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/1.png)
+
+
+![List View](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/3.png)
+
+
+![Submit](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/2.png)
+
+
+
 ## Routes
 
 All the routes can be found by the `mix phx.routes` command
