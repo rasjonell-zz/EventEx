@@ -11,13 +11,13 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Screenshots
 
-![Month View](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/1.png)
+![Month View](https://raw.githubusercontent.com/rasjonell/EventEx/master/screenshots/1.png)
 
 
-![List View](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/3.png)
+![List View](https://raw.githubusercontent.com/rasjonell/EventEx/master/screenshots/3.png)
 
 
-![Submit](https://raw.githubusercontent.com/rasjonell/EventEx/masater/screenshots/2.png)
+![Submit](https://raw.githubusercontent.com/rasjonell/EventEx/master/screenshots/2.png)
 
 
 
