@@ -1,0 +1,20 @@
+<div id='top'>
+
+  <div style='float:left'>
+    Timezone:
+    <select id='timezone-selector'>
+      <option value=''>None</option>
+      <option value='local' selected>Local</option>
+      <option value='UTC'>UTC</option>
+    </select>
+  </div>
+
+  <div style='float:right'>
+    <span id='loading'>loading...</span>
+
+  </div>
+
+  <div style='clear:both'></div>
+</div>
+<div id="calendar"></div>
+<script src="<%= static_path(@conn, "/js/calendar.js") %>"></script>
